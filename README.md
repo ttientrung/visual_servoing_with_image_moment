@@ -2,7 +2,7 @@
 My HCMUT bachelor gradute thesis apply visual servoing using image moments into control 6-DOF robot
 
 # Installation
-* 1 - clone repo 
+* 1 - clone repo https://github.com/ttientrung/visual_servoing_with_image_moment.git
 * 2 - create a virtual environment and activate
 *  - pip install virtualenv
 *  - virtualenv envname

@@ -1,0 +1,12 @@
+# **/*.jpg
+# **/*.txt
+# **/*.json
+**/.vscode
+**/__pycache__
+**/__init__.py
+**/record
+**/imgs_1
+**/imgs_2
+# **/*.ipynb
+visualize.py
+*.mat
